@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mineral_images</folder>
+  <filename>DSC04042</filename>
+  <path>C:\Users\Chris\FTC\mineral_images\DSC04042.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2720</width>
+    <height>1528</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>silver</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1076</xmin>
+      <ymin>272</ymin>
+      <xmax>1890</xmax>
+      <ymax>1120</ymax>
+    </bndbox>
+  </object>
+</annotation>

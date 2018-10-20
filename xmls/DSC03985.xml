@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mineral_images</folder>
+  <filename>DSC03985</filename>
+  <path>C:\Users\Chris\FTC\mineral_images\DSC03985.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2720</width>
+    <height>1528</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gold</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1014</xmin>
+      <ymin>393</ymin>
+      <xmax>1519</xmax>
+      <ymax>924</ymax>
+    </bndbox>
+  </object>
+</annotation>
